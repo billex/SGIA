@@ -34,7 +34,7 @@ class AlunosController extends AppController {
  */
 	public function view($id = null) {
 		if (!$this->Aluno->exists($id)) {
-			throw new NotFoundException(__('Invalid aluno'));
+			throw new NotFoundException(__('Aluno inválido!'));
 		}
 		$options = array('conditions' => array('Aluno.' . $this->Aluno->primaryKey => $id));
 		$this->set('aluno', $this->Aluno->find('first', $options));
@@ -53,7 +53,7 @@ class AlunosController extends AppController {
 				$this->Session->setFlash(__('The aluno has been saved.'), 'default', array('class' => 'alert alert-success'));
 				return $this->redirect(array('plugin'=>null, 'controller'=>'encaregados','action' => 'add'));
 			} else {
-				$this->Session->setFlash(__('The aluno could not be saved. Please, try again.'), 'default', array('class' => 'alert alert-danger'));
+				$this->Session->setFlash(__('Aluno não cadastrado~, tente novamente.'), 'default', array('class' => 'alert alert-danger'));
 			}
 		}
 		$generos = $this->Aluno->Genero->find('list');
@@ -71,11 +71,11 @@ class AlunosController extends AppController {
  */
 	public function edit($id = null) {
 		if (!$this->Aluno->exists($id)) {
-			throw new NotFoundException(__('Invalid aluno'));
+			throw new NotFoundException(__('Aluno inválido'));
 		}
 		if ($this->request->is(array('post', 'put'))) {
 			if ($this->Aluno->save($this->request->data)) {
-				$this->Session->setFlash(__('The aluno has been saved.'), 'default', array('class' => 'alert alert-success'));
+				$this->Session->setFlash(__('Dados do aluno foram edidatos com sucesso.'), 'default', array('class' => 'alert alert-success'));
 				return $this->redirect(array('action' => 'index'));
 			} else {
 				$this->Session->setFlash(__('The aluno could not be saved. Please, try again.'), 'default', array('class' => 'alert alert-danger'));
