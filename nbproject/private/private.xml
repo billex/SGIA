@@ -3,13 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/SGIA/app/View/Classas/index.ctp</file>
-            <file>file:/C:/xampp/htdocs/SGIA/app/Plugin/Admin/View/Users/view.ctp</file>
-            <file>file:/C:/xampp/htdocs/SGIA/app/Controller/ClassasController.php</file>
-            <file>file:/C:/xampp/htdocs/SGIA/README.md</file>
-            <file>file:/C:/xampp/htdocs/SGIA/app/Plugin/Admin/View/Users/add.ctp</file>
-            <file>file:/C:/xampp/htdocs/SGIA/app/View/Classas/lancarnota.ctp</file>
-            <file>file:/C:/xampp/htdocs/SGIA/app/Plugin/Admin/View/Users/listaprofessores.ctp</file>
+            <file>file:/C:/xampp/htdocs/SGIA/BD/sgia_2.sql</file>
+            <file>file:/C:/xampp/htdocs/SGIA/app/View/Elements/menutopo.ctp</file>
+            <file>file:/C:/xampp/htdocs/SGIA/app/Controller/AlunosController.php</file>
+            <file>file:/C:/xampp/htdocs/SGIA/app/Plugin/Admin/View/Users/addencarregado.ctp</file>
+            <file>file:/C:/xampp/htdocs/SGIA/app/View/Alunos/dadospessoais.ctp</file>
+            <file>file:/C:/xampp/htdocs/SGIA/app/View/Alunos/encarregado.ctp</file>
+            <file>file:/C:/xampp/htdocs/SGIA/app/View/Encaregados/add.ctp</file>
+            <file>file:/C:/xampp/htdocs/SGIA/app/Plugin/Admin/Controller/UsersController.php</file>
+            <file>file:/C:/xampp/htdocs/SGIA/app/View/Elements/encarregados.ctp</file>
+            <file>file:/C:/xampp/htdocs/SGIA/app/Controller/EncaregadosController.php</file>
+            <file>file:/C:/xampp/htdocs/SGIA/app/Controller/AppController.php</file>
+            <file>file:/C:/xampp/htdocs/SGIA/app/Plugin/Admin/View/Groups/add.ctp</file>
         </group>
     </open-files>
 </project-private>

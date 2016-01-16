@@ -49,8 +49,9 @@ class EncaregadosController extends AppController {
 		if ($this->request->is('post')) {
 			$this->Encaregado->create();
 			if ($this->Encaregado->save($this->request->data)) {
+                            $_SESSION["nomeEncarregado"] = $this->request->data['Encarregado']['name'];
 				$this->Session->setFlash(__('The encaregado has been saved.'), 'default', array('class' => 'alert alert-success'));
-				return $this->redirect(array('action' => 'index'));
+				return $this->redirect(array('plugin'=>'admin','controller'=>'users','action' => 'addencarregado'));
 			} else {
 				$this->Session->setFlash(__('The encaregado could not be saved. Please, try again.'), 'default', array('class' => 'alert alert-danger'));
 			}

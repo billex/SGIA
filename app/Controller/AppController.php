@@ -52,6 +52,7 @@ class AppController extends Controller {
 		$action=$this->params['action']; 
 		$user = $this->Auth->user();
 		$groupid=$user['group_id'];
+                $_SESSION['current_user']=$user['username'];
                 
                
 

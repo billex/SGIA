@@ -25,12 +25,16 @@ Chamar no layout, abaixo da div <div id="header">
 	}else{
 		if($grupo ==1){
                     echo $this->Element('administrador');
-	
-		} elseif($grupo ==2){
-                echo $this->Element('registoacademico');}
+		} 
+                elseif($grupo ==2){
+                echo $this->Element('registoacademico');           
+                }
                 elseif($grupo ==4){
                 echo $this->Element('professores');
-}
+                }                
+                elseif($grupo ==5){
+                echo $this->Element('encarregados');
+                }
 else{
 
 }

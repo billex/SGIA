@@ -24,6 +24,13 @@ class AlunosController extends AppController {
 		$this->Aluno->recursive = 0;
 		$this->set('alunos', $this->Paginator->paginate());
 	}
+        
+	public function dadospessoais() {
+		$options = array('conditions'=> array('aluno.numerodocumento'=>$_SESSION['current_user']),'order'=>array('alunos.id'=>'ASC'),'limit'=>10);
+                $this->paginate = $options;
+                $alunos=$this->paginate('Aluno');
+                $this->set('alunos',$alunos);
+	}        
 
 /**
  * view method
@@ -40,6 +47,14 @@ class AlunosController extends AppController {
 		$this->set('aluno', $this->Aluno->find('first', $options));
 	}
 
+	public function encarregado($id = null) {
+		if (!$this->Aluno->exists($id)) {
+			throw new NotFoundException(__('Aluno inválido!'));
+		}
+		$options = array('conditions' => array('Aluno.' . $this->Aluno->primaryKey => $id));
+		$this->set('aluno', $this->Aluno->find('first', $options));
+	}        
+
 /**
  * add method
  *
@@ -50,6 +65,7 @@ class AlunosController extends AppController {
 			$this->Aluno->create();
 			if ($this->Aluno->save($this->request->data)) {
                             $_SESSION["nomealuno"] = $this->request->data['Aluno']['name'];
+                            $_SESSION["alunouser"] = $this->request->data['Aluno']['numerodocumento'];
 				$this->Session->setFlash(__('The aluno has been saved.'), 'default', array('class' => 'alert alert-success'));
 				return $this->redirect(array('plugin'=>null, 'controller'=>'encaregados','action' => 'add'));
 			} else {

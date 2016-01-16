@@ -75,6 +75,20 @@ class UsersController extends AdminAppController {
 		$this->set(compact('groups'));
 	}
         
+	public function addencarregado() {
+		if ($this->request->is('post')) {
+			$this->User->create();
+			if ($this->User->save($this->request->data)) {
+				$this->Session->setFlash(__('The user has been saved.'));
+				return $this->redirect(array('action' => 'index'));
+			} else {
+				$this->Session->setFlash(__('The user could not be saved. Please, try again.'));
+			}
+		}
+		$groups = $this->User->Group->find('list');
+		$this->set(compact('groups'));
+	}
+        
         
         
      	public function addprofessor() {
