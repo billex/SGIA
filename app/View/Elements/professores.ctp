@@ -14,23 +14,8 @@
 				
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
-                        
-
-      
-
                         </li>
-                      <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dados Academicos <i class="fa fa-angle-down"></i></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="<?php echo $this->Html->url(array('plugin'=>null, 'controller'=>'classas', 'action'=>'add'));?>">classes</a</li>
-                                <li><a href="<?php echo $this->Html->url(array('plugin'=>null, 'controller'=>'notasfinalis', 'action'=>'add'));?>">Notas</a></li>
-                                <li><a href="<?php echo $this->Html->url(array('plugin'=>null, 'controller'=>'disciplinas', 'action'=>'index'));?>">disciplinas</a></li>
-
-                            </ul>
-
-                        </li>
-                        <li><a href="<?php echo $this->Html->url(array('plugin'=>null, 'controller'=>'alunos', 'action'=>'index'));?>">Alunos</a></li>
-                        <li><a href="<?php echo $this->Html->url(array('plugin'=>null, 'controller'=>'classas', 'action'=>'index'));?>">Turmas</a></li>
+                        <li><a href="<?php echo $this->Html->url(array('plugin'=>null, 'controller'=>'classas', 'action'=>'turmaprofessor'));?>">Turmas</a></li>
                        <li><a href="<?php echo $this->Html->url(array('plugin'=>'admin', 'controller'=>'users', 'action'=>'logout'));?>">Sair</a></li> 
                                              
                     </ul>

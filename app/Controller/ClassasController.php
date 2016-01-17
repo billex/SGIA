@@ -24,6 +24,13 @@ class ClassasController extends AppController {
 		$this->Classa->recursive = 0;
 		$this->set('classas', $this->Paginator->paginate());
 	}
+        
+        public function turmaprofessor() {
+            	$this->Classa->recursive = 0;
+		$this->set('classas', $this->Paginator->paginate());
+            
+
+	}
 
 /**
  * view method

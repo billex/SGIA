@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Home | Corlate</title>
+    <title>Home | Escola Internacional de Maputo</title>
     <!DOCTYPE html>
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -23,40 +23,20 @@
             </ol>
             <div class="carousel-inner">
 
-                <div class="item active" style="background-image: url(img/trips_20140414_1322513126.jpg)">
+                <div class="item active" style="background-image: url(img/slide1.jpg)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
-                                    <h1 class="animation animated-item-1">Lorem ipsum dolor sit amet consectetur adipisicing elit</h1>
-                                    <h2 class="animation animated-item-2">Accusantium doloremque laudantium totam rem aperiam, eaque ipsa...</h2>
-                                    <a class="btn-slide animation animated-item-3" href="#">Read More</a>
-                                </div>
-                            </div>
-
-                            <div class="col-sm-6 hidden-xs animation animated-item-4">
-                                <div class="slider-img">
-                                    <img src="images/slider/img1.png" class="img-responsive">
+                                    <h1 class="animation animated-item-1">Inscrições abertas para ano 2016</h1>
+                                    <h2 class="animation animated-item-2">Dirija-se a nossa instituição e faça ja a sua inscrição para o presente ano.</h2>
+                                    <a class="btn-slide animation animated-item-3" href="#">ler mais...</a>
                                 </div>
                             </div>
 
                         </div>
                     </div>
-                </div><!--/.item-->
-
-            
-
-                <div class="col-sm-6 col-md-4">
-                    <div class="media services-wrap wow fadeInDown">
-                        <div class="pull-left">
-                            <img class="img-responsive" src="images/services/services6.png">
-                        </div>
-                        <div class="media-body">
-                            <h3 class="media-heading">SEO Marketing</h3>
-                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
-                        </div>
-                    </div>
-                </div>                                                
+                </div><!--/.item-->                                               
             </div><!--/.row-->
         </div><!--/.container-->
     </section><!--/#services-->
@@ -66,11 +46,11 @@
             <div class="row">
                 <div class="col-sm-6 wow fadeInDown">
                     <div class="skill">
-                        <h2>Our Skills</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <h2>Nosso Empenho</h2>
+                        <p>A Escola Internacional de Maputo desde a sua fundação em moçambique, sempre vocacinou os seus educandos na internacionalização nos seguintes domínios percentual.</p>
 
                         <div class="progress-wrap">
-                            <h3>Graphic Design</h3>
+                            <h3>Formação em Portugês</h3>
                             <div class="progress">
                               <div class="progress-bar  color1" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 85%">
                                 <span class="bar-width">85%</span>
@@ -82,7 +62,7 @@
                       
 
                         <div class="progress-wrap">
-                            <h3>Wordpress</h3>
+                            <h3>Formação em Inglês</h3>
                             <div class="progress">
                               <div class="progress-bar color4" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
                                 <span class="bar-width">90%</span>
@@ -95,13 +75,13 @@
 
                 <div class="col-sm-6 wow fadeInDown">
                     <div class="accordion">
-                        <h2>Why People like us?</h2>
+                        <h2>Por que as pessoas gostam de nós?</h2>
                         <div class="panel-group" id="accordion1">
                           <div class="panel panel-default">
                             <div class="panel-heading active">
                               <h3 class="panel-title">
                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseOne1">
-                                  Lorem ipsum dolor sit amet
+                                  Francisco José Macamo
                                   <i class="fa fa-angle-right pull-right"></i>
                                 </a>
                               </h3>
@@ -114,7 +94,7 @@
                                             <img class="img-responsive" src="images/accordion1.png">
                                         </div>
                                         <div class="media-body">
-                                             <h4>Adipisicing elit</h4>
+                                             <h4>Comentário </h4>
                                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p>
                                         </div>
                                   </div>
@@ -185,11 +165,11 @@
                         <div class="media">
                             <div class="parrent pull-left">
                                 <ul class="nav nav-tabs nav-stacked">
-                                    <li class=""><a href="#tab1" data-toggle="tab" class="analistic-01">Responsive Web Design</a></li>
-                                    <li class="active"><a href="#tab2" data-toggle="tab" class="analistic-02">Premium Plugin Included</a></li>
-                                    <li class=""><a href="#tab3" data-toggle="tab" class="tehnical">Predefine Layout</a></li>
-                                    <li class=""><a href="#tab4" data-toggle="tab" class="tehnical">Our Philosopy</a></li>
-                                    <li class=""><a href="#tab5" data-toggle="tab" class="tehnical">What We Do?</a></li>
+                                    <li class=""><a href="#tab1" data-toggle="tab" class="analistic-01">Pre School</a></li>
+                                    <li class="active"><a href="#tab2" data-toggle="tab" class="analistic-02">Key Stage 1</a></li>
+                                    <li class=""><a href="#tab3" data-toggle="tab" class="tehnical">Key Stage 2</a></li>
+                                    <li class=""><a href="#tab4" data-toggle="tab" class="tehnical">Key Stage 3</a></li>
+                                    <li class=""><a href="#tab5" data-toggle="tab" class="tehnical"> Key Stage 4-5</a></li>
                                 </ul>
                             </div>
 
@@ -202,7 +182,9 @@
                                             </div>
                                             <div class="media-body">
                                                  <h2>Adipisicing elit</h2>
-                                                 <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use.</p>
+                                                 <p>No MIS oferecemos educação pré-escolar com base no Programa Early Years Currículo Nacional Britânico para crianças de três a cinco anos de idade.
+
+Temos duas classes em nosso pré-escolar, uma para crianças de três anos e outra para quatro anos de idade. Temos dois professores qualificados que administram o programa. Nosso velho grupo de três anos (conhecido como os ursos de pelúcia) está sob os cuidados da Sra Linda. Nossos quatro anos de idade grupo é conhecido como os dinossauros e seu professor é Ms Mildred. Nós temos duas assistentes em tempo integral e Ilda Ms Ms Veronica para apoiar os professores.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -214,8 +196,9 @@
                                             </div>
                                             <div class="media-body">
                                                  <h2>Adipisicing elit</h2>
-                                                 <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use.
-                                                 </p>
+                                                 <p>Nos anos 1 e 2 nossas crianças desenvolver as habilidades e experiências que eles encontraram durante a fase de fundação e Reception. Gradualmente, através da manutenção de um ambiente social e, um currículo formal cuidadosamente monitorado, as crianças são introduzidas a uma ampla gama de assuntos, até ao final do Segundo Ano.</P>
+
+As aulas são mantidos a um máximo de vinte e dois filhos. Isto permite aos professores para monitorar o progresso de cada aluno, proporcionando enriquecimento e de apoio numa base individual.
                                             </div>
                                         </div>
                                      </div>
@@ -239,14 +222,14 @@
 
                 <div class="col-xs-12 col-sm-4 wow fadeInDown">
                     <div class="testimonial">
-                        <h2>Testimonials</h2>
+                        <h2>Mensagens da Direcção</h2>
                          <div class="media testimonial-inner">
                             <div class="pull-left">
                                 <img class="img-responsive img-circle" src="images/testimonials1.png">
                             </div>
                             <div class="media-body">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
-                                <span><strong>-John Doe/</strong> Director of corlate.com</span>
+                                <span><strong>-Stefan Dick/</strong> Director da Escola</span>
                             </div>
                          </div>
 
@@ -256,7 +239,7 @@
                             </div>
                             <div class="media-body">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
-                                <span><strong>-John Doe/</strong> Director of corlate.com</span>
+                                <span><strong>-Cristina Sanches/</strong> Director Pedagógico</span>
                             </div>
                          </div>
 
@@ -287,8 +270,8 @@
                             <i class="fa fa-phone"></i>
                         </div>
                         <div class="media-body">
-                            <h2>Have a question or need a custom quote?</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation +0123 456 70 80</p>
+                            <h2>Tem alguma pergunta ou precisar de um orçamento personalizado?</h2>
+                            <p>Caso deseja um orçamento, sugestão ou reclamação, a Escola Internacional de Maputo disponibiliza a linha de atendimento personalizado para todos os utentes: +0123 456 70 80</p>
                         </div>
                     </div>
                 </div>
@@ -301,55 +284,55 @@
             <div class="row">
                 <div class="col-md-3 col-sm-6">
                     <div class="widget">
-                        <h3>Company</h3>
+                        <h3>Instituição</h3>
                         <ul>
-                            <li><a href="#">About us</a></li>
-                            <li><a href="#">We are hiring</a></li>
-                            <li><a href="#">Meet the team</a></li>
-                            <li><a href="#">Copyright</a></li>
-                            <li><a href="#">Terms of use</a></li>
-                            <li><a href="#">Privacy policy</a></li>
-                            <li><a href="#">Contact us</a></li>
+                            <li><a href="#">Sobre-nos</a></li>
+                            <li><a href="#">Historia</a></li>
+                            <li><a href="#">Missão</a></li>
+                            <li><a href="#">Vissão</a></li>
+                            <li><a href="#">Valor</a></li>
+                            <li><a href="#">Compromisso</a></li>
+                            <li><a href="#">Contacte-nos</a></li>
                         </ul>
                     </div>    
                 </div><!--/.col-md-3-->
 
                 <div class="col-md-3 col-sm-6">
                     <div class="widget">
-                        <h3>Support</h3>
+                        <h3>Redes Socias</h3>
                         <ul>
-                            <li><a href="#">Faq</a></li>
-                            <li><a href="#">Blog</a></li>
-                            <li><a href="#">Forum</a></li>
-                            <li><a href="#">Documentation</a></li>
-                            <li><a href="#">Refund policy</a></li>
-                            <li><a href="#">Ticket system</a></li>
-                            <li><a href="#">Billing system</a></li>
+                            <li><a href="#">Facebook</a></li>
+                            <li><a href="#">Linkid</a></li>
+                            <li><a href="#">Skype</a></li>
+                            <li><a href="#">Tweeter</a></li>
+                            <li><a href="#">Google+</a></li>
+                            <li><a href="#">Vibe</a></li>
+                            <li><a href="#">Round</a></li>
                         </ul>
                     </div>    
                 </div><!--/.col-md-3-->
 
                 <div class="col-md-3 col-sm-6">
                     <div class="widget">
-                        <h3>Developers</h3>
+                        <h3>Links Úteis</h3>
                         <ul>
-                            <li><a href="#">Web Development</a></li>
-                            <li><a href="#">SEO Marketing</a></li>
-                            <li><a href="#">Theme</a></li>
-                            <li><a href="#">Development</a></li>
-                            <li><a href="#">Email Marketing</a></li>
-                            <li><a href="#">Plugin Development</a></li>
-                            <li><a href="#">Article Writing</a></li>
+                            <li><a href="#">Sobre Aluno</a></li>
+                            <li><a href="#">Encarregados</a></li>
+                            <li><a href="#">Formação</a></li>
+                            <li><a href="#">Reuniões</a></li>
+                            <li><a href="#">Palestras</a></li>
+                            <li><a href="#">Sobre as salas</a></li>
+                            <li><a href="#">Residêncial</a></li>
                         </ul>
                     </div>    
                 </div><!--/.col-md-3-->
 
                 <div class="col-md-3 col-sm-6">
                     <div class="widget">
-                        <h3>Our Partners</h3>
+                        <h3>Nossos Parceiros</h3>
                         <ul>
-                            <li><a href="#">Adipisicing Elit</a></li>
-                            <li><a href="#">Eiusmod</a></li>
+                            <li><a href="#">UEM</a></li>
+                            <li><a href="#">MINEDH</a></li>
                             <li><a href="#">Tempor</a></li>
                             <li><a href="#">Veniam</a></li>
                             <li><a href="#">Exercitation</a></li>
@@ -366,14 +349,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    &copy; 2013 <a target="_blank" href="http://shapebootstrap.net/" title="Free Twitter Bootstrap WordPress Themes and HTML templates">ShapeBootstrap</a>. All Rights Reserved.
+                    &copy; 2016 <a target="_blank" href="127.0.0.1/SGIA.net/" title="">Manuel Bila</a>. Todos os Direitos Reservados.
                 </div>
                 <div class="col-sm-6">
                     <ul class="pull-right">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Faq</a></li>
-                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="#">Página Inicial</a></li>
+                        <li><a href="#">Sobre nós</a></li>
+                        <li><a href="#">Portofolio</a></li>
+                        <li><a href="#">Contacte-nos</a></li>
                     </ul>
                 </div>
             </div>
