@@ -22,6 +22,13 @@
 		<?php echo $this->Form->input('ano_id', array('class' => 'form-control','label'=>FALSE ));?>
                         </td>
                     </tr>
+                    <tr>
+                       
+                         <td width="150px">Turma</td>
+                        <td width="600px">
+		<?php echo $this->Form->input('user_id', array('class' => 'form-control','label'=>FALSE ));?>
+                        </td>
+                    </tr>
                 </table>
                    
 

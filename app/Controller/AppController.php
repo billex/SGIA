@@ -52,10 +52,10 @@ class AppController extends Controller {
 		$action=$this->params['action']; 
 		$user = $this->Auth->user();
 		$groupid=$user['group_id'];
-                $_SESSION['current_user']=$user['username'];
+        $_SESSION['current_user']=$user['username'];
+		$_SESSION['user_id']=$user['id'];
                 
                
-
         $this->Auth->allow('index','homepage','quemsomos','nossosservicos');//'add'
 
 		if($action != 'index'){// || $action != 'add'
