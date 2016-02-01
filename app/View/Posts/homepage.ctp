@@ -95,7 +95,7 @@
                                         </div>
                                         <div class="media-body">
                                              <h4>Comentário </h4>
-                                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p>
+                                             <p>Eu fui Aluno da Escola Internacional de Maputo , posso dizer que estou muito agradecido a todos professores e funcionarioas </p>
                                         </div>
                                   </div>
                               </div>
@@ -106,14 +106,14 @@
                             <div class="panel-heading">
                               <h3 class="panel-title">
                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseTwo1">
-                                  Lorem ipsum dolor sit amet
+                                  Ana Claudia Sitoe
                                   <i class="fa fa-angle-right pull-right"></i>
                                 </a>
                               </h3>
                             </div>
                             <div id="collapseTwo1" class="panel-collapse collapse">
                               <div class="panel-body">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor.
+               Como Encarregado de Educacao tive uma experiencia positiva pela Educacao que os meus filhos receberam na escola Internacional isso reflectiu-se no sucesso que tiveram nos seus cursos superiores .
                               </div>
                             </div>
                           </div>
@@ -122,14 +122,14 @@
                             <div class="panel-heading">
                               <h3 class="panel-title">
                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseThree1">
-                                  Lorem ipsum dolor sit amet
+                                  Dercio kelvin 
                                   <i class="fa fa-angle-right pull-right"></i>
                                 </a>
                               </h3>
                             </div>
                             <div id="collapseThree1" class="panel-collapse collapse">
                               <div class="panel-body">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor.
+                                , non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor.
                               </div>
                             </div>
                           </div>
