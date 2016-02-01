@@ -210,7 +210,7 @@ Key Stage Two, also known as the Middle School, comprises Year 3 (Grade 3); Year
                                      </div>
                                      
                                      <div class="tab-pane fade" id="tab4">
-                                        <p>Todos os alunos que entram Maputo International School, a este nível, são altamente examinado antes de ser colocado no grupo do ano mais adequado com base no seu desempenho durante uma entrevista, idade e escolaridade anterior. Cada grupo de ano tem duas classes de não mais de 25 alunos de capacidade mista. No entanto, para a matemática e Inglês, os alunos são definidos em três grupos de acordo com sua capacidade. Francês e Português também consistem em (língua estrangeira) o grupo de principiantes, bem como uma (1 Language) classe experiente. Há espaço para falantes de inglês fracos para melhorar através de Inglês especial.</p>
+   <p>Todos os alunos que entram Maputo International School, a este nível, são altamente examinado antes de ser colocado no grupo do ano mais adequado com base no seu desempenho durante uma entrevista, idade e escolaridade anterior. Cada grupo de ano tem duas classes de não mais de 25 alunos de capacidade mista. No entanto, para a matemática e Inglês, os alunos são definidos em três grupos de acordo com sua capacidade. Francês e Português também consistem em (língua estrangeira) o grupo de principiantes, bem como uma (1 Language) classe experiente. Há espaço para falantes de inglês fracos para melhorar através de Inglês especial.</p>
                                      </div>
 
                                      <div class="tab-pane fade" id="tab5">
@@ -234,7 +234,7 @@ The curriculum on which these examinations are based is the British National Cur
                                 <img class="img-responsive img-circle" src="images/testimonials1.png">
                             </div>
                             <div class="media-body">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                                <p>Desejamos boas vinda a todos nossos alunos e professores, um bem vindo especal a todos os que juntam a familia MIS pela primeira vez, o nosso maior desejo e que se sintam uma parte da familia MIS</p>
                                 <span><strong>-Stefan Dick/</strong> Director da Escola</span>
                             </div>
                          </div>
@@ -244,7 +244,7 @@ The curriculum on which these examinations are based is the British National Cur
                                 <img class="img-responsive img-circle" src="images/testimonials1.png">
                             </div>
                             <div class="media-body">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                                <p>Que o Ano Lectivo de 2016 seja um ano de sucessos a nivel academico,estamos comprometidos com sucesso dos nossos alunos </p>
                                 <span><strong>-Cristina Sanches/</strong> Director Pedagógico</span>
                             </div>
                          </div>
