@@ -26,9 +26,13 @@ class ClassasController extends AppController {
 	}
         
         public function turmaprofessor() {
-            	$this->Classa->recursive = 0;
-		$this->set('classas', $this->Paginator->paginate());
-            
+
+		$options = array('conditions' => array('classa.user_id' => $_SESSION['user_id']), 'order' => array('classa.id' => 'DESC'), 'limit' => 10);
+		$this -> paginate = $options;
+		// Roda a consulta, já trazendo os resultados paginados
+		$classas = $this -> paginate('Classa');
+		// Envia os dados pra view
+		$this -> set('classas', $classas);        
 
 	}
 
@@ -69,7 +73,8 @@ class ClassasController extends AppController {
 			}
 		}
 		$anos = $this->Classa->Ano->find('list');
-		$this->set(compact('anos'));
+		$users = $this->Classa->User->find('list');
+		$this->set(compact('anos', 'users'));
 	}
 
 /**
@@ -95,7 +100,9 @@ class ClassasController extends AppController {
 			$this->request->data = $this->Classa->find('first', $options);
 		}
 		$anos = $this->Classa->Ano->find('list');
-		$this->set(compact('anos'));
+		$users = $this->Classa->User->find('list');
+		
+		$this->set(compact('anos', 'users'));
 	}
 
 /**

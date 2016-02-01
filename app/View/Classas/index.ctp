@@ -24,6 +24,8 @@
 						<th><?php echo $this->Paginator->sort('id'); ?></th>
 						<th><?php echo $this->Paginator->sort('name'); ?></th>
 						<th><?php echo $this->Paginator->sort('ano_id'); ?></th>
+						<th><?php echo $this->Paginator->sort('Professor'); ?></th>
+						
 						<th class="actions"></th>
 					</tr>
 				</thead>
@@ -34,6 +36,9 @@
 						<td><?php echo h($classa['Classa']['name']); ?>&nbsp;</td>
 								<td>
 			<?php echo $this->Html->link($classa['Ano']['name'], array('controller' => 'anos', 'action' => 'view', $classa['Ano']['id'])); ?>
+		</td>
+								<td>
+			<?php echo $this->Html->link($classa['User']['name'], array('controller' => 'users', 'action' => 'view', $classa['User']['id'])); ?>
 		</td>
 						<td class="actions">
                                                     <?php echo $this->Html->link('<span class="glyphicon glyphicon-pencil"></span>', array('action' => 'lancarnota', $classa['Classa']['id']), array('escape' => false)); ?>

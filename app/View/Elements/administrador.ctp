@@ -17,10 +17,15 @@
                            
  
 
-                        <li><a href="<?php echo $this->Html->url(array('plugin'=>'admin', 'controller'=>'users', 'action'=>'add'));?>">novo usuario</a></li>                </li>
+                        <li><a href="<?php echo $this->Html->url(array('plugin'=>'admin', 'controller'=>'users', 'action'=>'add'));?>">Registar Utilizador</a></li>                </li>
                         <li><a href="<?php echo $this->Html->url(array('plugin'=>null, 'controller'=>'alunos', 'action'=>'index'));?>">Alunos</a></li>
                         <li><a href="<?php echo $this->Html->url(array('plugin'=>null, 'controller'=>'classas', 'action'=>'index'));?>">Turmas</a></li>
-                        <li><a href="<?php echo $this->Html->url(array('plugin'=>null, 'controller'=>'professores', 'action'=>'index'));?>">Professores</a></li>
+                      <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Professores <i class="fa fa-angle-down"></i></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="<?php echo $this->Html->url(array('plugin'=>'admin', 'controller'=>'users', 'action'=>'addprofessor'));?>">Registar</a</li>
+                                <li><a href="<?php echo $this->Html->url(array('plugin'=>null, 'controller'=>'notasfinalis', 'action'=>'add'));?>">Listar</a></li>
+                       </ul>
                         <li><a href="<?php echo $this->Html->url(array('plugin'=>'admin', 'controller'=>'users', 'action'=>'logout'));?>">Sair</a></li> 
                                              
                     </ul>
