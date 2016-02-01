@@ -181,7 +181,7 @@
                                                 <img class="img-responsive" src="images/tab2.png">
                                             </div>
                                             <div class="media-body">
-                                                 <h2>Adipisicing elit</h2>
+                                                 <h2>Pre-School</h2>
                                                  <p>No MIS oferecemos educação pré-escolar com base no Programa Early Years Currículo Nacional Britânico para crianças de três a cinco anos de idade.
 
 Temos duas classes em nosso pré-escolar, uma para crianças de três anos e outra para quatro anos de idade. Temos dois professores qualificados que administram o programa. Nosso velho grupo de três anos (conhecido como os ursos de pelúcia) está sob os cuidados da Sra Linda. Nossos quatro anos de idade grupo é conhecido como os dinossauros e seu professor é Ms Mildred. Nós temos duas assistentes em tempo integral e Ilda Ms Ms Veronica para apoiar os professores.</p>
@@ -195,7 +195,7 @@ Temos duas classes em nosso pré-escolar, uma para crianças de três anos e out
                                                 <img class="img-responsive" src="images/tab1.png">
                                             </div>
                                             <div class="media-body">
-                                                 <h2>Adipisicing elit</h2>
+                                                 <h2>Key Stage-1</h2>
                                                  <p>Nos anos 1 e 2 nossas crianças desenvolver as habilidades e experiências que eles encontraram durante a fase de fundação e Reception. Gradualmente, através da manutenção de um ambiente social e, um currículo formal cuidadosamente monitorado, as crianças são introduzidas a uma ampla gama de assuntos, até ao final do Segundo Ano.</P>
 
 As aulas são mantidos a um máximo de vinte e dois filhos. Isto permite aos professores para monitorar o progresso de cada aluno, proporcionando enriquecimento e de apoio numa base individual.
@@ -204,15 +204,21 @@ As aulas são mantidos a um máximo de vinte e dois filhos. Isto permite aos pro
                                      </div>
 
                                      <div class="tab-pane fade" id="tab3">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</p>
+                                        <p> Key Stage 2
+
+Key Stage Two, also known as the Middle School, comprises Year 3 (Grade 3); Year 4 (Grade 4); Year 5 (Grade 5) and Year 6 (Grade 6). </p>
                                      </div>
                                      
                                      <div class="tab-pane fade" id="tab4">
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words</p>
+   <p>Todos os alunos que entram Maputo International School, a este nível, são altamente examinado antes de ser colocado no grupo do ano mais adequado com base no seu desempenho durante uma entrevista, idade e escolaridade anterior. Cada grupo de ano tem duas classes de não mais de 25 alunos de capacidade mista. No entanto, para a matemática e Inglês, os alunos são definidos em três grupos de acordo com sua capacidade. Francês e Português também consistem em (língua estrangeira) o grupo de principiantes, bem como uma (1 Language) classe experiente. Há espaço para falantes de inglês fracos para melhorar através de Inglês especial.</p>
                                      </div>
 
                                      <div class="tab-pane fade" id="tab5">
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures,</p>
+                                        <p>Key Stage 4 comprises Grade 10 (Year 10) and Grade 11 (Year 11). Key Stage 5 comprises Grade 12 (Year 12) and Grade 13 (Year 13)
+
+In Key Stages 4 and 5 MIS prepares students to write examinations set by the Cambridge International Examinations Board (CIE). These examinations are internationally recognized and are offered at three different levels. These are: the IGCSE Level (International General Certificate of Secondary Education) written at the end of Grade 11; the AS Level (Advanced Subsidiary Level) written at the end of Grade 12; and the A Level (Advanced Level) written at the end of Grade 13.
+
+The curriculum on which these examinations are based is the British National Curriculum, slightly adapted to accommodate the needs of students from all over the world.</p>
                                      </div>
                                 </div> <!--/.tab-content-->  
                             </div> <!--/.media-body--> 
@@ -228,7 +234,7 @@ As aulas são mantidos a um máximo de vinte e dois filhos. Isto permite aos pro
                                 <img class="img-responsive img-circle" src="images/testimonials1.png">
                             </div>
                             <div class="media-body">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                                <p>Desejamos boas vinda a todos nossos alunos e professores, um bem vindo especal a todos os que juntam a familia MIS pela primeira vez, o nosso maior desejo e que se sintam uma parte da familia MIS</p>
                                 <span><strong>-Stefan Dick/</strong> Director da Escola</span>
                             </div>
                          </div>
@@ -238,7 +244,7 @@ As aulas são mantidos a um máximo de vinte e dois filhos. Isto permite aos pro
                                 <img class="img-responsive img-circle" src="images/testimonials1.png">
                             </div>
                             <div class="media-body">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                                <p>Que o Ano Lectivo de 2016 seja um ano de sucessos a nivel academico,estamos comprometidos com sucesso dos nossos alunos </p>
                                 <span><strong>-Cristina Sanches/</strong> Director Pedagógico</span>
                             </div>
                          </div>
