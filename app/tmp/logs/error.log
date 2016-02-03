@@ -54578,3 +54578,3081 @@ Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
 Stack Trace:
 #0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2016-02-01 18:59:05 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:09 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:12 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:12 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:15 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:15 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:16 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:22 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:22 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/accordion1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab2.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:23 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/testimonials1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:24 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:25 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab2.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:25 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/accordion1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:25 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:25 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/testimonials1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:25 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/partners/partner_bg.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:25 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/contact.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:30 Error: [MissingActionException] Action UsersController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'images',
+)
+Request URL: /SGIA/admin/users/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-02-01 18:59:31 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:40 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:40 Error: [MissingActionException] Action UsersController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'images',
+)
+Request URL: /SGIA/admin/users/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-02-01 18:59:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:48 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:48 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/testimonials1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:48 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/accordion1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:48 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:48 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab2.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:49 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:49 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:49 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/accordion1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:49 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/testimonials1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:49 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/partners/partner_bg.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:49 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/contact.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-01 18:59:49 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:07:53 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/testimonials1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:07:53 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+main}
+2016-02-02 19:07:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:07:56 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:07:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:07:57 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:07:57 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/accordion1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:07:57 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/partners/partner_bg.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:07:57 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/testimonials1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:07:57 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/contact.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:07:57 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab2.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:08:09 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:08:09 Error: [MissingActionException] Action UsersController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'images',
+)
+Request URL: /SGIA/admin/users/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-02-02 19:08:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:08:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab2.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:08:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/accordion1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:08:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:08:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/testimonials1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:08:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:08:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:08:21 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:08:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/testimonials1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:08:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:08:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/partners/partner_bg.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:08:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab2.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:08:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/contact.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:08:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/accordion1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:08:22 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:09:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:09:17 Error: [MissingActionException] Action AlunosController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'AlunosController',
+  'action' => 'images',
+)
+Request URL: /SGIA/alunos/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AlunosController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-02-02 19:09:17 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:09:17 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:12:15 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:12:15 Error: [MissingActionException] Action EncaregadosController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'EncaregadosController',
+  'action' => 'images',
+)
+Request URL: /SGIA/encaregados/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(EncaregadosController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-02-02 19:12:15 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:12:15 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:16:16 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:16:16 Error: [MissingActionException] Action UsersController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'images',
+)
+Request URL: /SGIA/admin/users/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-02-02 19:16:16 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:16:17 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:16:17 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:16:17 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:16:56 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:16:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:16:56 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:16:57 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:21:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:21:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab2.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:21:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/accordion1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:21:53 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/testimonials1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:21:53 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:21:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:21:53 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/partners/partner_bg.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:21:53 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/accordion1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:21:53 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/contact.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:21:53 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:21:53 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/testimonials1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:21:53 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab2.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:21:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:21:56 Error: [MissingActionException] Action UsersController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'images',
+)
+Request URL: /SGIA/admin/users/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-02-02 19:22:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/testimonials1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:22:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:22:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:22:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab2.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:22:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/accordion1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:22:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:22:21 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:22:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/contact.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:22:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/testimonials1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:22:21 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/partners/partner_bg.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:22:22 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:22:31 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:22:31 Error: [MissingActionException] Action AlunosController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'AlunosController',
+  'action' => 'images',
+)
+Request URL: /SGIA/alunos/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AlunosController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-02-02 19:22:31 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:22:31 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:22:31 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:22:31 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:22:36 Error: [MissingControllerException] Controller class DadospessoaisController could not be found.
+Exception Attributes: array (
+  'class' => 'DadospessoaisController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/dadospessoais
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:22:36 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:22:36 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:22:36 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:22:37 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:22:42 Error: [MissingActionException] Action AlunosController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'AlunosController',
+  'action' => 'images',
+)
+Request URL: /SGIA/alunos/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(AlunosController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-02-02 19:23:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:23:02 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:23:02 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/testimonials1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:23:02 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/accordion1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:23:02 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:23:02 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab2.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:23:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:23:03 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/contact.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:23:03 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab2.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:23:03 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:23:03 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/testimonials1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:23:03 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/partners/partner_bg.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:23:03 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/accordion1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:23:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:23:04 Error: [MissingActionException] Action UsersController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'images',
+)
+Request URL: /SGIA/admin/users/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-02-02 19:26:26 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:26:26 Error: [MissingActionException] Action UsersController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'images',
+)
+Request URL: /SGIA/admin/users/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-02-02 19:26:43 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:26:43 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:26:43 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:26:43 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/testimonials1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:26:43 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab2.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:26:43 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/accordion1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:26:43 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:26:44 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/partners/partner_bg.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:26:44 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:26:44 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/contact.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:26:44 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:26:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:26:47 Error: [MissingActionException] Action UsersController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'images',
+)
+Request URL: /SGIA/admin/users/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-02-02 19:26:47 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:26:47 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:26:47 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:26:47 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:27:00 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:27:00 Error: [MissingActionException] Action UsersController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'images',
+)
+Request URL: /SGIA/admin/users/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-02-02 19:27:00 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:27:00 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:27:00 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:27:00 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:33:27 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:33:27 Error: [MissingActionException] Action UsersController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'images',
+)
+Request URL: /SGIA/admin/users/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-02-02 19:33:27 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:33:27 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:33:55 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:33:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:33:55 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:33:55 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:33:55 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:33:55 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:03 Error: [NotFoundException] Invalid classa
+Request URL: /SGIA/classas/edit/images/mislogo.png
+Stack Trace:
+#0 [internal function]: ClassasController->edit('images', 'mislogo.png')
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(ClassasController), Array)
+#2 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClassasController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-02-02 19:34:03 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:03 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:03 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:03 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:20 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:28 Error: [NotFoundException] Invalid classa
+Request URL: /SGIA/classas/edit/images/mislogo.png
+Stack Trace:
+#0 [internal function]: ClassasController->edit('images', 'mislogo.png')
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(ClassasController), Array)
+#2 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClassasController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-02-02 19:34:28 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:28 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:28 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:28 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:37 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:37 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:37 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:37 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:38 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:50 Error: [NotFoundException] Invalid classa
+Request URL: /SGIA/classas/lancarnota/images/mislogo.png
+Stack Trace:
+#0 [internal function]: ClassasController->lancarnota('images', 'mislogo.png')
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(ClassasController), Array)
+#2 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClassasController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-02-02 19:34:50 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:50 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:50 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:50 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:53 Error: [MissingActionException] Action RegistosController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'RegistosController',
+  'action' => 'images',
+)
+Request URL: /SGIA/registos/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RegistosController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-02-02 19:34:53 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:54 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:54 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:34:54 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:35:07 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:35:07 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:35:07 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:35:07 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:35:07 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:35:07 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:35:07 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:35:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:35:13 Error: [NotFoundException] Invalid registo
+Request URL: /SGIA/registos/edit/images/mislogo.png
+Stack Trace:
+#0 [internal function]: RegistosController->edit('images', 'mislogo.png')
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(RegistosController), Array)
+#2 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RegistosController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-02-02 19:35:13 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:35:14 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:35:14 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:35:14 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:35:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:35:17 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:35:17 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:35:18 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:35:18 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:35:18 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:35:18 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:35:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:35:30 Error: [MissingActionException] Action NotasfinalisController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'NotasfinalisController',
+  'action' => 'images',
+)
+Request URL: /SGIA/notasfinalis/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(NotasfinalisController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-02-02 19:35:30 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.woff?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:35:30 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/fontawesome-webfont.ttf?v=4.0.3
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:30 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab2.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:30 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/accordion1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:30 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:30 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:30 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/testimonials1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:30 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/accordion1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:30 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/partners/partner_bg.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:30 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/contact.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:34 Error: [MissingActionException] Action UsersController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'images',
+)
+Request URL: /SGIA/admin/users/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-02-02 19:36:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab2.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/testimonials1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:52 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/accordion1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab2.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/contact.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/testimonials1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/partners/partner_bg.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:55 Error: [MissingActionException] Action ClassasController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClassasController',
+  'action' => 'images',
+)
+Request URL: /SGIA/classas/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClassasController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-02-02 19:36:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:55 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:36:56 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:37:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:37:02 Error: [NotFoundException] Invalid classa
+Request URL: /SGIA/classas/lancarnota/images/mislogo.png
+Stack Trace:
+#0 [internal function]: ClassasController->lancarnota('images', 'mislogo.png')
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(ClassasController), Array)
+#2 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClassasController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-02-02 19:37:02 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 19:37:02 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:05:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:05:29 Error: [MissingActionException] Action NotasfinalisController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'NotasfinalisController',
+  'action' => 'images',
+)
+Request URL: /SGIA/notasfinalis/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(NotasfinalisController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-02-02 20:05:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:05:53 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:05:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:05:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:05:54 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:05:54 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:58:22 Error: [NotFoundException] Invalid notasfinali
+Request URL: /SGIA/notasfinalis/edit/images/mislogo.png
+Stack Trace:
+#0 [internal function]: NotasfinalisController->edit('images', 'mislogo.png')
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(NotasfinalisController), Array)
+#2 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(NotasfinalisController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-02-02 20:58:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:58:24 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:58:24 Error: [NotFoundException] Invalid notasfinali
+Request URL: /SGIA/notasfinalis/edit/images/mislogo.png
+Stack Trace:
+#0 [internal function]: NotasfinalisController->edit('images', 'mislogo.png')
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(NotasfinalisController), Array)
+#2 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(NotasfinalisController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-02-02 20:58:24 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:58:25 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:58:52 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:58:52 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:58:52 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:58:52 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:59:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:59:03 Error: [NotFoundException] Invalid notasfinali
+Request URL: /SGIA/notasfinalis/view/images/mislogo.png
+Stack Trace:
+#0 [internal function]: NotasfinalisController->view('images', 'mislogo.png')
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(NotasfinalisController), Array)
+#2 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(NotasfinalisController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-02-02 20:59:03 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:59:04 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:59:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:59:13 Error: [NotFoundException] Invalid notasfinali
+Request URL: /SGIA/notasfinalis/edit/images/mislogo.png
+Stack Trace:
+#0 [internal function]: NotasfinalisController->edit('images', 'mislogo.png')
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(NotasfinalisController), Array)
+#2 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(NotasfinalisController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-02-02 20:59:13 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:59:13 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:59:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:59:17 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:59:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:59:17 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:59:17 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:59:20 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:59:20 Error: [MissingActionException] Action DisciplinasController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'DisciplinasController',
+  'action' => 'images',
+)
+Request URL: /SGIA/disciplinas/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(DisciplinasController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-02-02 20:59:27 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:59:30 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:59:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:59:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:59:30 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-02 20:59:31 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:52:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:52:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/testimonials1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:52:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/accordion1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:52:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab2.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:52:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:52:40 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:52:41 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:52:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:52:41 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/testimonials1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:52:41 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/partners/partner_bg.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:52:41 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab2.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:52:41 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:52:41 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/accordion1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:52:41 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/contact.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:54:40 Error: [MissingActionException] Action UsersController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'images',
+)
+Request URL: /SGIA/admin/users/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-02-03 10:54:40 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:55:09 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:55:09 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:55:09 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/accordion1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:55:09 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab2.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:55:10 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/testimonials1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:55:10 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:55:10 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:55:10 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:55:10 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/partners/partner_bg.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:55:10 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/tab2.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:55:10 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/accordion1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:55:10 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/testimonials1.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:55:10 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/images/contact.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:55:15 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:55:15 Error: [MissingActionException] Action ClassasController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ClassasController',
+  'action' => 'images',
+)
+Request URL: /SGIA/classas/images/mislogo.png
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClassasController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-02-03 10:55:15 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:55:16 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:55:16 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:55:24 Error: [NotFoundException] Invalid classa
+Request URL: /SGIA/classas/lancarnota/images/mislogo.png
+Stack Trace:
+#0 [internal function]: ClassasController->lancarnota('images', 'mislogo.png')
+#1 C:\xampp\htdocs\SGIA\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(ClassasController), Array)
+#2 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\SGIA\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(ClassasController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-02-03 10:55:24 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/js/html5shiv.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:55:24 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.woff
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-03 10:55:25 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /SGIA/fonts/glyphicons-halflings-regular.ttf
+Stack Trace:
+#0 C:\xampp\htdocs\SGIA\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
