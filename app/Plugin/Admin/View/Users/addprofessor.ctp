@@ -42,9 +42,6 @@
 					<?php echo $this->Form->hidden('group_id', array('class' => 'form-control', 'default' => 4));?>
 				</div>
 				<div class="form-group">
-					<?php echo $this->Form->input('classa_id', array('class' => 'form-control', 'placeholder' => 'Group Id'));?>
-				</div>
-				<div class="form-group">
 					<?php echo $this->Form->submit(__('Submit'), array('class' => 'btn btn-default')); ?>
 				</div>
 
