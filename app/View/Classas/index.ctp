@@ -34,7 +34,7 @@
 					<tr>
 						<td><?php echo h($classa['Classa']['id']); ?>&nbsp;</td>
 						<td><?php echo h($classa['Classa']['name']); ?>&nbsp;</td>
-								<td>
+						<td>
 			<?php echo $this->Html->link($classa['Ano']['name'], array('controller' => 'anos', 'action' => 'view', $classa['Ano']['id'])); ?>
 		</td>
 								<td>

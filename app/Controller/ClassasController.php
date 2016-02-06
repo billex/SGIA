@@ -50,6 +50,8 @@ class ClassasController extends AppController {
 		$options = array('conditions' => array('Classa.' . $this->Classa->primaryKey => $id));
 		$this->set('classa', $this->Classa->find('first', $options));
 	}
+	
+	
 	public function lancarnota($id = null) {
 		if (!$this->Classa->exists($id)) {
 			throw new NotFoundException(__('Invalid classa'));

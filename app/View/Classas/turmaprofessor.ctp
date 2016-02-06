@@ -1,9 +1,10 @@
+<br />
 <div class="classas index">
 
 	<div class="row">
 		<div class="col-md-12">
 			<div class="page-header">
-				<h1><?php echo __('Classas'); ?></h1>
+				<h1></h1>
 			</div>
 		</div><!-- end col md 12 -->
 	</div><!-- end row -->
@@ -21,22 +22,19 @@
 			<table cellpadding="0" cellspacing="0" class="table table-striped">
 				<thead>
 					<tr>
-						<th><?php echo $this->Paginator->sort('id'); ?></th>
-						<th><?php echo $this->Paginator->sort('name'); ?></th>
-						<th><?php echo $this->Paginator->sort('ano_id'); ?></th>
-						<th class="actions"></th>
+						<th><?php echo $this->Paginator->sort('Designação'); ?></th>
+						<th><?php echo $this->Paginator->sort('Ano Lectivo'); ?></th>
+						<th><?php echo $this->Paginator->sort('Acções'); ?></th>
+
 					</tr>
 				</thead>
 				<tbody>
 				<?php foreach ($classas as $classa): ?>
 					<tr>
-						<td><?php echo h($classa['Classa']['id']); ?>&nbsp;</td>
 						<td><?php echo h($classa['Classa']['name']); ?>&nbsp;</td>
-								<td>
-			<?php echo $this->Html->link($classa['Ano']['name'], array('controller' => 'anos', 'action' => 'view', $classa['Ano']['id'])); ?>
-		</td>
-						<td class="actions">
-                                                    <?php echo $this->Html->link('<span class="glyphicon glyphicon-pencil"></span> LANÇAMENTO', array('action' => 'lancarnota', $classa['Classa']['id']), array('escape' => false)); ?>
+						<td><?php echo h($classa['Ano']['name']); ?></td>
+						<td>
+                        <?php echo $this->Html->link('<span class="glyphicon glyphicon-list"></span> GERIR', array('action' => 'lancarnota', $classa['Classa']['id']), array('escape' => false)); ?>
 						</td>
 					</tr>
 				<?php endforeach; ?>

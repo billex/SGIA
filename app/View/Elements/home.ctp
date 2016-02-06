@@ -3,12 +3,6 @@
         <nav class="navbar navbar-inverse navbar-fixed-top" role="banner">
             <div class="container">
                 <div class="collapse navbar-collapse navbar-center">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
                     <a class="navbar-brand" href="index.html"><img src="images/mislogo.png" alt="Maputo International Schooll"></a>
               
   </div>
@@ -18,8 +12,6 @@
        <li class="active"><a href="#">Pagina Inicial</a></li>
     <li><a href="<?php echo $this->Html->url(array('plugin'=>null, 'controller'=>'posts', 'action'=>'quemsomos'));?>">Quem somos</a</li>
      <li><a href="<?php echo $this->Html->url(array('plugin'=>null, 'controller'=>'posts', 'action'=>'nossosservicos'));?>">Nossos Servicos</a</li>
-                        
-     </li>
      <li><a href="<?php echo $this->Html->url(array('plugin'=>'admin', 'controller'=>'users', 'action'=>'login'));?>">Entrar</a></li> 
                                    
    </ul>
